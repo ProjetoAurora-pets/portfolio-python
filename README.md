@@ -1,5 +1,7 @@
-#Input é uma função em python na qual permite a interação entre o program e o usuari
+#Input é uma função em python na qual permite a interação entre o program e o usuario
+
 #Como funciona:
+
 #Quando o Python encontra a função input(), ele:
 
 #Exibe uma mensagem (se você quiser),
